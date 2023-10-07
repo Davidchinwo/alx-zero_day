@@ -1,1 +1,1 @@
-staring to code at alx
+How to be up to date in git 2222
